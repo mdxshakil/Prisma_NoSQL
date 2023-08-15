@@ -1,10 +1,14 @@
 {
-    "workbench.colorCustomizations": {
-        "sideBar.background": "#0F1927",
-        "editor.background": "#171C2C",
-        "tab.activeBackground": "#0e4949",
-        "activityBar.background": "#1A2F44",
-        "titleBar.activeBackground": "#254160",
-        "titleBar.activeForeground": "#F8FAFC"
-    }
+  "workbench.colorCustomizations": {
+    "sideBar.background": "#0F1927",
+    "editor.background": "#171C2C",
+    "tab.activeBackground": "#0e4949",
+    "activityBar.background": "#1A2F44",
+    "titleBar.activeBackground": "#254160",
+    "titleBar.activeForeground": "#F8FAFC"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  }
 }
